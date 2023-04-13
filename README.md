@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgustavoj
 - 👀 I’m interested in web/software development in React, Python and building CI/CD pipelines with GitHub Actions.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently studying for the AWS solutions architect certification.
 
 
 <!---
