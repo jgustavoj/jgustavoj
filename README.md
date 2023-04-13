@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jgustavoj
 - 👀 I’m interested in web/software development in React, Python and building CI/CD pipelines with GitHub Actions.
-- 🌱 I’m currently studying for the AWS solutions architect certification.
+- 🌱 I’m currently studying for the AWS solutions architect certification and adding some new skills like terraform, Gatsby.js and doing AlgoExpert. 
+- 👨‍💻 As a side hustle, I'm working on building websites for small businesses.
 
 
 <!---
