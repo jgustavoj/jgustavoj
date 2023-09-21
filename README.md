@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gus!
-- 👀 I’m interested in web/software development in React, Python and building CI/CD pipelines with GitHub Actions.
-- 🌱 I’m currently studying for the AWS solutions architect certification and adding some new skills like Golang, terraform, Gatsby.js and doing AlgoExpert.
+- 👀 I’m work in web/software development. I've used React, C#, Python, Terraform, Azure and AWS.
+- 🌱 I’m currently adding some new skills: Golang, Gatsby.js
 - 👨‍💻 On the side, I work on building websites for small businesses.
 
 
