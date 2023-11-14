@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gus!
-- 👀 I’m work in web/software development. I've used React, C#, Python, Terraform, Azure and AWS.
+- 👋 Hello, I’m Gus!
+- 👀 I work in web/software development. I've worked with React, C#, Python, Terraform, Azure and AWS.
 - 🌱 I’m currently adding some new skills: Golang, Gatsby.js
 - 👨‍💻 On the side, I work on building websites for small businesses.
 
